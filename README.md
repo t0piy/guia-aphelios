@@ -1,5 +1,5 @@
 # Armas
-O Aphelios possui 5 armas, podendo ter duas armas disponíveis para uso - a arma primária (a que ele está empunhando) e a secundária (que ele pode empunhar ao apertar **W**, trocando-as de posição). Cada arma possui 50 de munição e cada ataque básico consome 1 de munição. A habilidade **Q** consome 10 e sua ultimate (**R**) não consome nada. Ao acabar a munição o Aphelios empunha automaticamente a próxima arma da fila. As armas do Aphelios são sua mecânica chave, dominar elas é essêncial em qualquer momento do jogo. Aqui está uma breve explicação sobre as armas:
+O Aphelios possui 5 armas, tendo duas armas disponíveis para uso - a arma primária (a que ele está empunhando) e a secundária (que ele pode empunhar ao apertar **W**, trocando-as de posição). Cada arma possui 50 de munição e cada ataque básico consome 1 de munição. A habilidade **Q** consome 10 e sua ultimate (**R**) não consome nada. Ao acabar a munição o Aphelios empunha automaticamente a próxima arma da fila. As armas do Aphelios são sua mecânica chave, dominar elas é essêncial em qualquer momento do jogo. Aqui está uma breve explicação sobre as armas:
 
 - **Severum (Vermelha):** É de onde vem o roubo de vida do Aphelios. Ela concede roubo de vida não só no ataque básico, mas também em suas habilidades
 
@@ -48,5 +48,6 @@ Praticamente todas a habilidades **Q** do Aphelios atacam com a arma secundária
 | Principal (Q)       | Posiciona no chão uma espécie de torreta que atira com a arma secundária, escalando com *velocidade de ataque* e *chance de crítico*. |
 | Ultimate (R)        | Causa dano e acumula mini chakrans de acordo com a quantidade de campeões inimigos atingidos. |
 
-A interação do **Q** em todas as armas é basicamente usar a arma secundária para aplicar ataques. 
+A interação do **Q** em todas as armas é basicamente usar a arma secundária para aplicar ataques.
+
 P.S.: Todos os ataques causados pelo **Q** são de fatos ataques, ou seja boa parte do seu dano pode ser reduzido por habilidades de bloqueio e similares, tipo o **E** do Jax ou **Q** do Teemo
